@@ -1,4 +1,4 @@
-token = Token Y Botaka Lera DaBne
+token = NzM4ODUzODk0NDk4NjgwOTMz.XyR9Tw.KXjTmr0GGULqrsDlccfDWPKpNsg
 owner = 617046166219128943
 
 
